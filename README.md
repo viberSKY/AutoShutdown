@@ -15,6 +15,15 @@ _(UI is a compact WinForms window with time picker, countdown box, and Schedule/
 ## Getting Started
 
 ### 1) Prerequisites
+
+For (v2.0.1 and later)
+- Lightweight (around 120 Kb) portable exe that does not need .NET or other prequisites like VCRedist.
+
+For (v2.0.0) 
+- Lightweight. If you get VCRuntime errors, download and install~ [Visual C++ Redistributable (2015–2022)] https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+
+For (v.1.0.0) .NET Dependent build
 - Windows 10 or later.
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download) (for building from source).
 
